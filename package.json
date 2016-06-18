@@ -1,0 +1,10 @@
+{
+  "name": "bdevUTRValidater",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
